@@ -114,12 +114,12 @@
 
 
 <meta property="og:type" content="website">
-<meta property="og:title" content="Mercy">
+<meta property="og:title" content="Categories">
 <meta property="og:url" content="http://yoursite.com/categories/index.html">
 <meta property="og:site_name" content="Mercy">
-<meta property="og:updated_time" content="2017-12-01T15:46:20.936Z">
+<meta property="og:updated_time" content="2017-12-02T14:38:14.420Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Mercy">
+<meta name="twitter:title" content="Categories">
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-  <title> | Mercy</title>
+  <title>Categories | Mercy</title>
   
 
 
@@ -303,7 +303,7 @@
     <div class="post-block page">
       <header class="post-header">
 
-	<h1 class="post-title" itemprop="name headline"></h1>
+	<h1 class="post-title" itemprop="name headline">Categories</h1>
 
 
 
@@ -315,7 +315,14 @@
       <div class="post-body">
         
         
-          
+          <div class="category-all-page">
+            <div class="category-all-title">
+                2 categories in total
+            </div>
+            <div class="category-all">
+              <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/摘选/">摘选</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/日记/">日记</a><span class="category-list-count">1</span></li></ul>
+            </div>
+          </div>
         
       </div>
       
@@ -383,10 +390,10 @@
             
             
             <div class="site-state-item site-state-categories">
-              
+              <a href="/categories/index.html">
                 <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">categories</span>
-              
+              </a>
             </div>
           
 
@@ -642,7 +649,7 @@ function showSubtitle()
     var isfetched = false;
     var isXml = true;
     // Search DB path;
-    var search_path = "";
+    var search_path = "search.xml";
     if (search_path.length === 0) {
       search_path = "search.xml";
     } else if (/json$/i.test(search_path)) {
