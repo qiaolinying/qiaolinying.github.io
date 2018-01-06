@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[但愿人长久]]></title>
     <url>%2F2017%2F12%2F03%2F%E4%BD%86%E6%84%BF%E4%BA%BA%E9%95%BF%E4%B9%85%2F</url>
-    <content type="text"><![CDATA[今晚的月亮是橘色。每月的中旬，月亮慢慢饱满又渐渐缺损。只有见她仿若完美，才私以为她是一颗幸福的月亮。 new APlayer({ element: document.getElementById("aplayer1"), narrow: false, autoplay: false, showlrc: 0, music: { title: "但愿人长久", author: "Mercy", url: "http://outx7lwnx.bkt.clouddn.com/%E4%BD%86%E6%84%BF%E4%BA%BA%E9%95%BF%E4%B9%85.mp3", pic: "", } });]]></content>
+    <content type="text"><![CDATA[今晚的月亮是橘色。每月的中旬，月亮慢慢饱满又渐渐缺损。只有见她仿若完美，才私以为她是一颗幸福的月亮。 new APlayer({ element: document.getElementById("aplayer0"), narrow: false, autoplay: false, showlrc: 0, music: { title: "但愿人长久", author: "Mercy", url: "http://outx7lwnx.bkt.clouddn.com/%E4%BD%86%E6%84%BF%E4%BA%BA%E9%95%BF%E4%B9%85.mp3", pic: "", } });]]></content>
       <categories>
         <category>日记</category>
       </categories>
@@ -19,7 +19,7 @@
   <entry>
     <title><![CDATA[可爱美丽的诗]]></title>
     <url>%2F2017%2F12%2F02%2F%E5%8F%AF%E7%88%B1%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%AF%97%2F</url>
-    <content type="text"><![CDATA[原谅春天来了我去小溪边砸冰把春天砸得头破血流直淌眼泪到了花开的时候它就把那些事儿忘了真正原谅了我 灯灯把黑夜烫了一个洞 我画的树太漂亮了我画的树太漂亮了接下来画的鸟画的云画的池塘和花朵都配不上它 眼睛我的眼睛很大很大装得下高山装得下大海装得下蓝天装得下整个世界我的眼睛很小很小有时遇到心事就连两行泪也装不下 回到地面要是笑过了头你就会飞到天上去要想回到地面你必须做一件伤心事 春天春天是只大懒虫妈妈叫了许久也不醒春雷公公来了把它的大鼓一敲吓得春天滚到了大地上 打仗假如我生活在战争的年代别人冲在前线我就只能在旁边喊加油 很多我挥挥手就有很多手我跑步就有很多脚小狗朝我摇尾巴就有很多尾巴然后我打秋千就有很多我 new APlayer({ element: document.getElementById("aplayer0"), narrow: false, autoplay: false, showlrc: 0, music: { title: "亲亲", author: "Mercy", url: "http://outx7lwnx.bkt.clouddn.com/%E4%BA%B2%E4%BA%B2.mp3", pic: "", } });]]></content>
+    <content type="text"><![CDATA[原谅春天来了我去小溪边砸冰把春天砸得头破血流直淌眼泪到了花开的时候它就把那些事儿忘了真正原谅了我 灯灯把黑夜烫了一个洞 我画的树太漂亮了我画的树太漂亮了接下来画的鸟画的云画的池塘和花朵都配不上它 眼睛我的眼睛很大很大装得下高山装得下大海装得下蓝天装得下整个世界我的眼睛很小很小有时遇到心事就连两行泪也装不下 回到地面要是笑过了头你就会飞到天上去要想回到地面你必须做一件伤心事 春天春天是只大懒虫妈妈叫了许久也不醒春雷公公来了把它的大鼓一敲吓得春天滚到了大地上 打仗假如我生活在战争的年代别人冲在前线我就只能在旁边喊加油 很多我挥挥手就有很多手我跑步就有很多脚小狗朝我摇尾巴就有很多尾巴然后我打秋千就有很多我 new APlayer({ element: document.getElementById("aplayer1"), narrow: false, autoplay: false, showlrc: 0, music: { title: "亲亲", author: "Mercy", url: "http://outx7lwnx.bkt.clouddn.com/%E4%BA%B2%E4%BA%B2.mp3", pic: "", } });]]></content>
       <categories>
         <category>摘选</category>
       </categories>
